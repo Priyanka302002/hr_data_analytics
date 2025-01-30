@@ -67,12 +67,12 @@ A slicer that allows HR to filter the data by different departments like **Human
 ```bash
 git clone https://github.com/Priyanka302002/hr_data_analytics
 
-### Step 2: Open in Power BI
+Step 2: Open in Power BI
 Open Power BI Desktop.
 Go to File > Open and select the .pbix file from the cloned repository.
 Refresh the data if needed and explore the interactive visualizations.
 
-### 📈 Future Improvements
+ 📈 Future Improvements
 - Add more detailed analytics on employee performance vs. attrition.
 - Integrate with real-time HR data for continuous updates.
 - Enhance slicer functionality for deeper filtering and segmentation.
