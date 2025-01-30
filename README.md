@@ -6,7 +6,7 @@ Welcome to the **HR Data Analytics Dashboard** project! This project uses data a
 ## 🖼️ Dashboard
 
 **Project Interface Before Prediction:**  
-![Project Dashboard](images/dashboard.png)
+![Project Dashboard](image/dashboard.png)
 
 
 ## 📊 **Key Performance Indicators (KPIs)**
