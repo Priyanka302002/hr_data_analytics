@@ -5,7 +5,7 @@ Welcome to the **HR Data Analytics Dashboard** project! This project uses data a
 ---
 ## 🖼️ Dashboard
 
-**Project Interface Before Prediction:**  
+**Dashboard:**  
 ![Project Dashboard](image/dashboard.png)
 
 
